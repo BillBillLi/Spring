@@ -6,4 +6,5 @@ CREATE TABLE account (
 	money DECIMAL(10 , 0),
 	PRIMARY KEY (id)
 ) ENGINE=InnoDB;
+张萌是头猪
 
